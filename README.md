@@ -7,7 +7,6 @@ This Android Poject showcases a replica of Instagram's iconic login page. If you
 
 - 📱 Instagram-like login page UI.
 - 🔑 Username and password input fields.
-- 🤔 "Forgot Password" functionality.
 - 🚀 "Log In" button.
 - 📝 Sign up option.
 - 📏 Responsive design for various screen sizes.
